@@ -358,7 +358,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src=".\makeamovie-B57QZpbA.avif" alt="rrr" className='collection'/>
+                <img src="./makeamovie-B57QZpbA.avif" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>500000000</span>
