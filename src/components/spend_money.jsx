@@ -77,7 +77,7 @@ function Spend_money() {
   return (
     <>
         <div className='first'>
-            <img src="./pic.jpg" alt="rrr" className='profile-img'/><br />
+            <img src="./prathap_money/pic.jpg" alt="rrr" className='profile-img'/><br />
             <h1>Spends Prathap Money</h1>
         </div>
         <div className='total_amount'>
@@ -86,7 +86,7 @@ function Spend_money() {
         <div className='main'>
             <div className='items'>
             <div className='burger'>
-                <img src="./burger.jpg" alt="rrr" className='collection'/>
+                <img src="./prathap_money/burger.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>200</span>
@@ -101,7 +101,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./src/components/drink.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/src/components/drink copy.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>300</span>
@@ -116,7 +116,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./movie_tickets.avif" alt="rrr" className='collection'/>
+                <img src="./prathap_money/movie_tickets.avif" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>400</span>
@@ -130,7 +130,7 @@ function Spend_money() {
             </div>
             <div className='items'>
             <div className='burger'>
-                <img src="./harry-DYODidp7.jpg" alt="rrr" className='collection'/>
+                <img src="./prathap_money/harry-DYODidp7.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>1000</span>
@@ -145,7 +145,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./food-BAXdoEel.jpg" alt="rrr" className='collection'/>
+                <img src="./prathap_money/food-BAXdoEel.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>2000</span>
@@ -160,7 +160,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./game-17mIpUP5.avif" alt="rrr" className='collection'/>
+                <img src="./prathap_money/game-17mIpUP5.avif" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>3000</span>
@@ -175,7 +175,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./echo-NEO3grUL.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/echo-NEO3grUL.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>5000</span>
@@ -190,7 +190,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./shoe-ofruA9ww.png" alt="rrr" className='collection'/>
+                <img src="./prathap_money/shoe-ofruA9ww.png" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>10000</span>
@@ -205,7 +205,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./earpods-b0D8ysi-.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/earpods-b0D8ysi-.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>20000</span>
@@ -220,7 +220,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./ps-BgWKej93.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/ps-BgWKej93.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>45000</span>
@@ -235,7 +235,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./drone-CZO9Vp-B.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/drone-CZO9Vp-B.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>1000000</span>
@@ -250,7 +250,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./jetski-CDjr05U6.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/jetski-CDjr05U6.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>150000</span>
@@ -266,7 +266,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./rolex-Dk0gW-sl.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/rolex-Dk0gW-sl.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>2000000</span>
@@ -281,7 +281,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./tesla-BBXojaXz.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/tesla-BBXojaXz.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>25000000</span>
@@ -297,7 +297,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./ferrari-BBXjCzwA.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/ferrari-BBXjCzwA.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>1000000000</span>
@@ -312,7 +312,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./house-ZV0Qfy3m.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/house-ZV0Qfy3m.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>200000000</span>
@@ -328,7 +328,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./helicopter-BbYO2gL0.jpg" alt="rrr" className='collection'/>
+                <img src="./prathap_money/helicopter-BbYO2gL0.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>55000000</span>
@@ -343,7 +343,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./cruise-Bik4yObg.jpg" alt="rrr" className='collection'/>
+                <img src="./prathap_money/cruise-Bik4yObg.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>70000000</span>
@@ -358,7 +358,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./makeamovie-B57QZpbA.avif" alt="rrr" className='collection'/>
+                <img src="./prathap_money/makeamovie-B57QZpbA.avif" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>500000000</span>
@@ -373,7 +373,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./NBA-B3-fjXGO.webp" alt="rrr" className='collection'/>
+                <img src="./prathap_money/NBA-B3-fjXGO.webp" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>45515151</span>
@@ -388,7 +388,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./mansion-ClmI5tiy.jpg" alt="rrr" className='collection'/>
+                <img src="/prathap_money/mansion-ClmI5tiy.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>12345000</span>
@@ -404,7 +404,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./furustic-50c-NwdR.jpg" alt="rrr" className='collection'/>
+                <img src="./prathap_money/furustic-50c-NwdR.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>55500000</span>
@@ -419,7 +419,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./f1car-DrjLk-JG.jpg" alt="rrr" className='collection'/>
+                <img src="./prathap_money/f1car-DrjLk-JG.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>80000000</span>
@@ -434,7 +434,7 @@ function Spend_money() {
 
             <div className='items'>
             <div className='burger'>
-                <img src="./private-CqD4aDP0.jpg" alt="rrr" className='collection'/>
+                <img src="./prathap_money/private-CqD4aDP0.jpg" alt="rrr" className='collection'/>
             </div>
             <div className='item_amount'>
                 <span>9999999999</span>
