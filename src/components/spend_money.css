@@ -140,6 +140,7 @@ body{
   
 }
 .footer{
+  position: absolute;
   background: white;
   width: 77%;
   height: 80px;
