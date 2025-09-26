@@ -59,7 +59,7 @@ function Spend_money() {
     house:55500000,
   };
 
-  // ✅ Generic Buy Handler
+
   const handleBuy = (item) => {
     if (total >= prices[item]) {
       setItems({ ...items, [item]: items[item] + 1 });
@@ -67,7 +67,7 @@ function Spend_money() {
     }
   };
 
-  // ✅ Generic Sell Handler
+  
   const handleSell = (item) => {
     if (items[item] > 0) {
       setItems({ ...items, [item]: items[item] - 1 });

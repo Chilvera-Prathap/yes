@@ -10,7 +10,7 @@ function todo() {
     const [todo,setTodo]=useState([])
     const[input,setInput]=useState("")
 
-    const handleSubmit=()=>{
+    const handleSubmit=()=>{   
         if(input===""){
             return alert(`todo is empty`);
         }

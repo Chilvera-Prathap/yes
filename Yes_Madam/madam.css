@@ -1,0 +1,286 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+
+}
+body{
+    background-color: #fff;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    margin: 0;
+    background-color: #fff;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+.madam{
+    margin-right: 100px;
+    margin-left: 80px;
+    display: flex;
+}
+.yes{
+    color: hsla(192, 92%, 35%, 0.74) ;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.hi{
+    color:  #ac2b57;
+    font-weight: bolder;
+    font-size: 30px
+}
+.milestones{
+   display: flex;
+   align-items: center;
+   gap: 20px;
+   font-weight: bolder;
+   margin-right: 100px;
+
+}
+.get_app{
+    border-radius: 30px;
+    border: 2px solid black;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+
+}
+.achievments{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin: 25px;
+}
+.outer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+    margin: 40px;
+    padding: 20px;
+}
+.inner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.image{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(238, 228, 231);
+    
+}
+.digit{
+    font-weight: bold;
+    font-size: 25px;
+}
+.imagestyle{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: rgb(238, 228, 231);
+    
+}
+.font,.content{
+    color: rgb(150, 147, 147);
+    
+}
+
+.services{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.service_inner{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.service_image{
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 40px;
+    background-color: rgb(238, 228, 231);
+    margin: 20px;
+    
+}
+h2{
+    margin-bottom: 20px;
+}
+.men{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+    margin: 40px;
+    padding: 20px;
+}
+.men2{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+}
+.men_image{
+    
+    height: 170px;
+    width: 170px;
+    border-radius: 40px;
+    margin: 20px;
+    
+}
+.download{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    font-weight: bold;
+    width: 350px;
+    margin-left: 600px;
+   
+}
+
+.laser{
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+    margin: 40px;
+}
+.laser_image{
+    
+    height: 350px;
+    width: 100%;
+    border-radius: 10px;
+
+    
+}
+.salon{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center; 
+    margin: 40px;
+    padding: 50px;
+}
+.lorem{
+    background-color: antiquewhite;
+    padding: 20px;
+    line-height: 40px;
+}
+.yesmam{
+    background-color: antiquewhite;
+    padding: 20px;
+    line-height: 40px;
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.yess{
+    color: hsla(192, 92%, 35%, 0.74) ;
+    font-weight: bolder;
+    font-size: 50px;
+     background-color: antiquewhite;
+}
+.hii{
+    background-color: antiquewhite;
+    color:  #ac2b57;
+    font-weight: bolder;
+    font-size: 50px
+    
+}
+.explore{
+    background-color: #115e59;
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+    width: 150px;
+
+}
+
+.final{
+    background-color: #dcc4c8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.website{
+    background-color:  #dcc4c8;
+}
+.code{
+    padding: 20px;
+    border-radius: 10px;
+    width: 60px;
+    margin: 15px 15px 15px 0px;
+    padding-left: 10px;
+    border: 1px solid hsl(0, 1%, 54%);
+    font-size: 15px;
+}
+.input{
+    padding: 18px;
+    border-radius: 10px;
+    width: 250px;
+    margin: 15px;
+    border: 1px solid hsl(0, 1%, 54%);
+    font-size: 20px;
+}
+.share{
+    padding: 20px;
+    border-radius: 10px;
+    width: 150px;
+    margin: 15px;
+    background-color: #ac2b57;
+    cursor: pointer;
+    font-size: 15px;
+    border: 1px solid hsl(0, 1%, 54%);
+    color: white;
+}
+.last,.lorem1{
+    background-color:  #dcc4c8;
+}
+.download1{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    font-weight: bold;
+    width: 200px;
+    background-color: #dcc4c8;;
+    margin: 20px 20px 20px 0px;
+    
+}
+.get{
+    background-color: #dcc4c8;
+    margin: 20px 20px 20px 0px;
+    font-size: 40px;
+}
+.fa-brands{
+    font-size: 35px;
+    background-color: #dcc4c8;
+}

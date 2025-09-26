@@ -1,5 +1,5 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+// import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import Greetings from "./components/Greetings";
 import Greet from "./components/greet";
@@ -10,6 +10,7 @@ import HiddenSearchBar from "./components/hiddenSearchBar.jsx";
 import Login_validation from "./components/login_validation.jsx";
 import spend_money from "./components/spend_money.jsx";
 import Spend_money from "./components/spend_money.jsx";
+import Madam from "../Yes_Madam/madam.jsx";
 
 
 function App() {
@@ -79,7 +80,9 @@ function App() {
 
       {/* <Login_validation /> */}
 
-      <Spend_money />
+      {/* <Spend_money /> */}
+
+      <Madam />
     </div>
     
   );
