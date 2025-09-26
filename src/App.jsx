@@ -10,7 +10,7 @@ import HiddenSearchBar from "./components/hiddenSearchBar.jsx";
 import Login_validation from "./components/login_validation.jsx";
 import spend_money from "./components/spend_money.jsx";
 import Spend_money from "./components/spend_money.jsx";
-import Madam from "../Yes_Madam/madam.jsx";
+import Madam from "./Yes_Madam/madam.jsx";
 
 
 function App() {
@@ -27,7 +27,7 @@ function App() {
     setButtonColor(backgroundColor === "white" ? "black" : "white");
   };
   return (
-    
+
     <div>
       {/* <button onClick={handleClick} style={{buttonColor,color: textColor,border: `2px solid ${textColor}`,}}>
         {backgroundColor === "black" ? "blacktheme" : "whitetheme"}
