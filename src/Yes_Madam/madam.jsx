@@ -16,7 +16,7 @@ import male2 from '../assets/male-spa.webp'
 
 import Hydra from '../assets/Hydra-Facial-Treatments.webp'
 import laser from '../assets/Laser-Banner.webp'
-import website from '../assets/websiteWithoutSK.webp'
+import website from '../assets/websiteWithoutSk.webp'
 
 function Madam() {
   return (
