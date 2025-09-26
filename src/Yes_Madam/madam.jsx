@@ -1,22 +1,22 @@
 import React from 'react'
 import "./madam.css"
-import booking from '../public/assets/booking.webp'
-import city from '../public/assets/cities.webp'
-import download from '../public/assets/download.webp'
-import girl from '../public/assets/girl.webp'
-import rated from '../public/assets/rated.webp'
-import cruse from '../public/assets/cruise-Bik4yObg.jpg'
+import booking from '../assets/booking.webp'
+import city from '../assets/cities.webp'
+import download from '../assets/download.webp'
+import girl from '../assets/girl.webp'
+import rated from '../assets/rated.webp'
+import cruse from '../assets/cruise-Bik4yObg.jpg'
 
-import hair from '../public/assets/hair-services.webp'
-import mehndi from '../public/assets/mehndi.webp'
-import prebridal from '../public/assets/pre-bridal.webp'
-import makeup from '../public/assets/make-up.webp'
-import male from '../public/assets/male-grooming.webp'
-import male2 from '../public/assets/male-spa.webp'
+import hair from '../assets/hair-services.webp'
+import mehndi from '../assets/mehndi.webp'
+import prebridal from '../assets/pre-bridal.webp'
+import makeup from '../assets/make-up.webp'
+import male from '../assets/male-grooming.webp'
+import male2 from '../assets/male-spa.webp'
 
-import Hydra from '../public/assets/Hydra-Facial-Treatments.webp'
-import laser from '../public/assets/Laser-Banner.webp'
-import website from '../public/assets/websiteWithoutSK.webp'
+import Hydra from '../assets/Hydra-Facial-Treatments.webp'
+import laser from '../assets/Laser-Banner.webp'
+import website from '../assets/websiteWithoutSK.webp'
 
 function Madam() {
   return (
