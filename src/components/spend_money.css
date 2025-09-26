@@ -47,6 +47,9 @@ body{
   margin-left: 170px;
   margin-top: 20px;
 }
+.prathap{
+  background: linear-gradient(149deg, #f9006d, #a2b9e4, #0070f4);
+}
 .main{
   display: flex;
   flex-direction: row;

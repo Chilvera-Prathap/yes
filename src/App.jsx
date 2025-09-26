@@ -81,9 +81,9 @@ function App() {
 
       {/* <Login_validation /> */}
 
-      {/* <Spend_money /> */}
+     <Spend_money />
 
-      <Madam />
+      {/* <Madam /> */}
     </div>
     
   );
